@@ -1,0 +1,6 @@
+a2237c70d83937ad11f352d816c748b3675fd42e
+http://www.aimango.net/api/view/task/call/avail/list/?page=1&page_size=10&user_id=69&flow_id=86bdbb9bbce41be98d6567afffcdcc8a&hd_ct=3&start_date=2018-09-01&end_date=2018-09-30
+A
+B
+C
+SZjsyy/667788
