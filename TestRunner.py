@@ -10,7 +10,7 @@ import os.path
 from labeltest.label_test import LabelTest
 
 def test_runner():
-    info_path = os.path.dirname(os.path.abspath(__file__))
+    info_path = os.path.abspath(".")
     info_name = info_path + '/info.txt'
     print(info_name)
     info = []
@@ -27,6 +27,9 @@ def test_runner():
         res = labelTest.getRes()
         print("测试标签 [" + i + "] 测试结果如下：")
         print("正确率 = %.4f\n召回率 = %.4f\nf1 = %.4f\n" % res)
+        with open (info_path + "/log.txt", "a") as f:
+            f.writelines("测试标签 [" + i + "] 测试结果如下：\n")
+            f.writelines("正确率 = %.4f\n召回率 = %.4f\nf1 = %.4f\n" % res)
 
 
 if __name__ == "__main__":
