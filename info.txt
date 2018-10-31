@@ -1,5 +1,5 @@
 d181b51f0fdd633454ccda683201368b719b3738
-http://www.aimango.net/api/view/task/call/avail/list/?page=1&page_size=10&user_id=n_u_507&flow_id=9c5cd9ba4e68e678f9dc3f42ed80efa7&hd_ct=2&start_date=2018-10-19&end_date=2018-10-29
+http://www.aimango.net/api/view/task/call/avail/list/?page=1&page_size=10&user_id=n_u_507&flow_id=9c5cd9ba4e68e678f9dc3f42ed80efa7&hd_ct=2&start_date=2018-10-01&end_date=2018-10-29
 A类 年级+科目+确认
 A类 单一确认
 B类 年级+确认
